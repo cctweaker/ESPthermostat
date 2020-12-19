@@ -48,5 +48,5 @@ For building the sources PlatformIO is recommended for automatic library managem
 - https://github.com/bblanchon/ArduinoJson
 
 # PCB example
-<img src="https://github.com/cctweaker/ESPthermostat/blob/master/Hardware/PCB ESPthermostat v1.1 top.png?raw=true">
-<img src="https://github.com/cctweaker/ESPthermostat/blob/master/Hardware/PCB ESPthermostat v1.1 bottom.png?raw=true">
+<img src="https://github.com/cctweaker/ESPthermostat/blob/master/Hardware/ESPthermostat v1.1 top.png?raw=true">
+<img src="https://github.com/cctweaker/ESPthermostat/blob/master/Hardware/ESPthermostat v1.1 bottom.png?raw=true">
